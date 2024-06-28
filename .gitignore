@@ -1,0 +1,22 @@
+# Arquivos de ambiente e configuração
+.env
+pyvenv.cfg
+
+# Diretórios de ambiente virtual
+bin/
+include/
+lib/
+lib64
+share/
+docs/
+# Banco de dados e arquivos compilados
+*.db
+*.pyc
+*.sqlite3
+0965f7eb-0ce2-4235-891c-29355e7e48c1/
+helpers/
+
+# Arquivos específicos que podem ser adicionados se necessário
+__pycache__/
+
+

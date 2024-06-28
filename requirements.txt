@@ -1,0 +1,17 @@
+pandas
+scikit-learn
+flask
+langchain
+langchain-openai
+langchain-community
+langgraph
+graphviz
+torch
+transformers
+python-dotenv
+scipy
+sentence-transformers
+chromadb
+grandalf
+huggingface-hub
+langchain-huggingface
